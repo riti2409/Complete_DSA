@@ -11,3 +11,5 @@ Complete DSA Notes
 
 Would love if you could add more resources :)
 Stay tuned!
+
+MyCodeSchool: https://youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6
